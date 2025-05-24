@@ -101,7 +101,7 @@ To build meaningful digital solutions in the fields of **Web Development**, **AI
 - **📧 Email**: elvestinodorelin@gmail.com  
 - **📱 Phone**: +261 34 56 517 31  
 - **🌍 GitHub**: [github.com/Elvestino](https://github.com/Elvestino)  
-- **🔗 LinkedIn**: [linkedin.com/in/dorelin-elvestino](https://www.linkedin.com/in/dorelin-elvestino-b302782aa/)  
+- **🔗 LinkedIn**: [linkedin.com/in/dorelin-elvestino](https://www.linkedin.com/in/karl-elvestino-dorelin-tsianoy-b302782aa/)  
 - **📘 Facebook**: [facebook.com/elvestinodorelin](https://www.facebook.com/elvestinodorelin/)
 
 ---
