@@ -1,71 +1,69 @@
-<h1 align="center">👋 Salut, je suis Elvestino Dorelin</h1>
-<h3 align="center">Développeur Web spécialisé en ReactJS / NextJS</h3>
+<h1 align="center">👋 Hi, I'm Elvestino Dorelin</h1>
+<h3 align="center">Web Developer specialized in ReactJS / NextJS</h3>
 
 ---
 
-### 💡 À propos de moi
+### 💡 About Me
 
-Je suis un passionné de développement Web avec une spécialisation en **ReactJS**, **NextJS** et **UI/UX Design**. Actuellement en première année de Master en **Science des Données et Intelligence Artificielle (SDIA)** à l’EMIT Fianarantsoa, je cherche constamment à améliorer mes compétences techniques tout en travaillant sur des projets concrets.
-
----
-
-### 🧠 Compétences techniques
-
-- **Langages** : HTML, CSS, JavaScript, TypeScript
-- **Front-end** : ReactJS, NextJS, Tailwind CSS, React Native
-- **Back-end** : NestJS, Spring Boot
-- **Base de données** : PostgreSQL, MySQL, Microsoft Access
-- **Design** : Adobe XD, Figma
-- **Soft skills** : Créativité, Communication, Résolution de problèmes, Travail d'équipe
+I'm a passionate Web Developer focused on **ReactJS**, **NextJS**, and **UI/UX Design**. Currently pursuing a Master's degree in **Data Science and Artificial Intelligence (SDIA)** at EMIT Fianarantsoa. I love building digital solutions and working in collaborative environments.
 
 ---
 
-### 📂 Projets et Expériences
+### 🧠 Technical Skills
 
-- 🔹 **Digitalisation de la gestion de consultation du CHU Tambohobe** (Stage, 2024)  
+- **Languages**: HTML, CSS, JavaScript, TypeScript  
+- **Front-end**: ReactJS, NextJS, Tailwind CSS, React Native  
+- **Design Tools**: Adobe XD, Figma  
+- **Soft Skills**: Creativity, Communication, Problem Solving, Teamwork
+
+---
+
+### 📂 Projects & Experience
+
+- 🔹 **Digitalization of CHU Tambohobe's consultation management** (Internship, 2024)  
   *NextJS, NestJS, PostgreSQL*
 
-- 🔹 **Application Horloge, Quiz et ToDoList** (Projet étudiant, 2024)  
+- 🔹 **Clock, Quiz, and ToDoList Mobile App** (Student Project, 2024)  
   *React Native*
 
-- 🔹 **Application de comptabilité des matériels au SRB Ihorombe** (Stage, 2023)  
+- 🔹 **Material accounting app for SRB Ihorombe** (Internship, 2023)  
   *Java Swing, MySQL*
 
-- 🔹 **Gestion de Bibliothèque** (2023 - 2024)  
+- 🔹 **Library Management System** (2023 - 2024)  
   *Spring Boot / PostgreSQL* & *HTML/CSS/JS / MySQL*
 
-- 🔹 **Site sur les 7 merveilles du monde** (2022)  
+- 🔹  **7 Wonders of the World Website** (2022)  
   *HTML, CSS, Bootstrap*
 
-- 🔹 **Gestion des adhérents d’une Bibliothèque** (2022)  
+- 🔹 **Library Members Management** (2022)  
   *Microsoft Access*
 
 ---
 
-### 🎮 Centres d’intérêt
+### 🎮 Interests
 
-- Jeux vidéo 🎮  
-- Animation japonaise 🎌  
-- Musique 🎵  
+- Video games 🎮  
+- Japanese animation 🎌  
+- Music 🎵  
 - Basketball 🏀  
-- Cinéma 🎬  
+- Cinema 🎬  
 
 ---
 
-### 📫 Me contacter
+### 📫 Contact Me
 
-- **📧 Email** : elvestinodorelin@gmail.com  
-- **📱 Téléphone** : +261 34 56 517 31  
-- **🌍 GitHub** : [github.com/Elvestino](https://github.com/Elvestino)  
-- **🔗 LinkedIn** : [linkedin.com/in/dorelin-elvestino](https://www.linkedin.com/in/dorelin-elvestino-b302782aa/)  
-- **📘 Facebook** : [facebook.com/elvestinodorelin](https://www.facebook.com/elvestinodorelin/)
-
----
-
-### ✨ Objectif
-
-Apporter ma contribution au monde du développement Web moderne tout en collaborant avec des équipes passionnées, en mettant l'accent sur la performance, l'expérience utilisateur, et la qualité du code.
+- **📧 Email**: elvestinodorelin@gmail.com  
+- **📱 Phone**: +261 34 56 517 31  
+- **🌍 GitHub**: [github.com/Elvestino](https://github.com/Elvestino)  
+- **🔗 LinkedIn**: [linkedin.com/in/dorelin-elvestino](https://www.linkedin.com/in/dorelin-elvestino-b302782aa/)  
+- **📘 Facebook**: [facebook.com/elvestinodorelin](https://www.facebook.com/elvestinodorelin/)
 
 ---
 
-<!-- README designé par Elvestino Dorelin ❤️ -->
+### ✨ Career Goal
+
+Contribute to modern web development by building impactful applications with clean code, great user experience, and collaboration with passionate developers.
+
+---
+
+<!-- README crafted by Elvestino Dorelin ❤️ -->
