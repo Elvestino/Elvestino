@@ -5,7 +5,7 @@
 
 ### 🧑‍💻 About Me
 
-I’m a passionate developer from Madagascar, currently pursuing a **Master’s degree in Data Science and Artificial Intelligence (SDIA)** at EMIT Fianarantsoa. I hold a **Bachelor’s degree in Internet and Intranet Application Development (DA2I)**, and I've worked on several academic and professional projects ranging from web applications to mobile solutions and database systems.
+I’m a passionate developer from Madagascar, currently pursuing a **Master’s degree in Data Science and Artificial Intelligence (SDIA)** at EMIT Fianarantsoa. I hold a **Bachelor’s degree in Internet and Intranet Application Development (DA2I)**, and I've worked on several academic and professional projects ranging from web applications to mobile solutions .
 
 My main expertise lies in **front-end web development** with technologies such as **ReactJS** and **NextJS**
 
